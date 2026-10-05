@@ -76,6 +76,7 @@ exclude_patterns = [
     "img/README.md",
 ]
 
+bioschemas = ["bioschemas.yaml"]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
